@@ -7,7 +7,7 @@ public class Nom {
         Scanner myObj = new Scanner(System.in);
         System.out.println("Enter your name");
 
-        String userName = myObj.nextLine(); 
+        String userName = myObj.nextLine();
         System.out.println("Your name is " + userName);
     }
 }
